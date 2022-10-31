@@ -1,0 +1,2 @@
+# simcal
+A simple calculator
