@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 def main() -> None:
+    """ Entry point of simcal. """
     ...
 
 
